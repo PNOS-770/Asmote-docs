@@ -68,7 +68,7 @@
 - **SSH Agent**：支持系统 SSH Agent 认证
 
 ### 跨平台
-目前只支持Windows /Android /
+目前只支持Windows /Android
 ## 默认快捷键
 
 | 快捷键 | 功能 |
